@@ -1,5 +1,5 @@
 ---
-name: John Appleseed
-email: johnappleseed@example.com
-github: https://github.com/notjohnappleseed
+name: James Braithwaite
+email: jamesbraithwaite@gmail.com
+github: " "
 ---
