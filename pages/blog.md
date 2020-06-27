@@ -1,9 +1,9 @@
 ---
 layout: layouts/blog.njk
-title: Blog
+title: Pictures of places
 date: 2017-01-01
-permalink: /blog/index.html
+permalink: /travel/index.html
 eleventyNavigation:
-  key: Blog
+  key: Travel
   order: 2
 ---
