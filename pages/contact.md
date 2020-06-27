@@ -6,7 +6,6 @@ eleventyNavigation:
   key: Living with cancer
   order: 3
 ---
-
 This year - 2020 - became my 35th on this earth.
 
 Of the 35 years I've now been alive, I’ve now been living with a chronic, terminal cancer for more years than I’ve not.
@@ -47,9 +46,9 @@ I was bundled in an ambulance and transferred from Scarborough Hospital to Leeds
 
 I lost count of the number of tests. I quickly got used to needles, at least in the arm. One needle however - used in taking a sample of your bone marrow from inside the bone at the back of your hip - is not something I think you ever get used to. Bone marrow aspiration is an experience you never forget.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/34375e17-386c-43c3-98c1-30d34643a9cb/Photograph-of-bone-marrow-BM-aspiration-needle-showing-A-stylet-B-needle-C.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/34375e17-386c-43c3-98c1-30d34643a9cb/Photograph-of-bone-marrow-BM-aspiration-needle-showing-A-stylet-B-needle-C.jpg)
+![Aspiration needle](/static/img/photograph-of-bone-marrow-bm-aspiration-needle-showing-a-stylet-b-needle-c.jpg "Aspiration needle")
 
----
+- - -
 
 ### **Diagnosis**
 
@@ -59,7 +58,7 @@ I was in and out of hospital every two weeks, for blood and bone marrow monitori
 
 I was hooked up leukapheresis machine, a machine that pumps blood from one arm, spins it through a series of centrifuges and filters to remove the immature white cells, then the normalised blood is then pumped back into you. 
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f050dbf-353f-4966-bf9f-333548d4270a/apheresis-machine-aj-photoscience-photo-library.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f050dbf-353f-4966-bf9f-333548d4270a/apheresis-machine-aj-photoscience-photo-library.jpg)
+![ Leukapheresis machine](/static/img/apheresis-machine-aj-photoscience-photo-library.jpg " Leukapheresis machine")
 
 After the initial shock, came the thoughts of prognosis.
 
