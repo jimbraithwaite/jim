@@ -7,7 +7,7 @@ eleventyNavigation:
   order: "3"
 
 ---
-This year - 2020 - became my 35th on this earth.
+This year - **2020** - became my 35th on this earth.
 
 Of the 35 years I've now been alive, I’ve now been living with a chronic, terminal cancer for more years than I’ve not.
 
