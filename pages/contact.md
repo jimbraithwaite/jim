@@ -46,7 +46,7 @@ I was bundled in an ambulance and transferred from Scarborough Hospital to Leeds
 
 I lost count of the number of tests. I quickly got used to needles, at least in the arm. One needle however - used in taking a sample of your bone marrow from inside the bone at the back of your hip - is not something I think you ever get used to. Bone marrow aspiration is an experience you never forget.
 
-![](https://res.cloudinary.com/jimsimages/image/upload/v1595843331/Photograph-of-bone-marrow-BM-aspiration-needle-showing-A-stylet-B-needle-C_hee8wu.jpg)
+![Bone marrow aspiration needle](https://res.cloudinary.com/jimsimages/image/upload/v1595843331/Photograph-of-bone-marrow-BM-aspiration-needle-showing-A-stylet-B-needle-C_hee8wu.jpg "Bone marrow aspiration needle")
 
 - - -
 
@@ -58,7 +58,7 @@ I was in and out of hospital every two weeks, for blood and bone marrow monitori
 
 I was hooked up leukapheresis machine, a machine that pumps blood from one arm, spins it through a series of centrifuges and filters to remove the immature white cells, then the normalised blood is then pumped back into you.
 
-![](https://res.cloudinary.com/jimsimages/image/upload/v1595843331/apheresis-machine-aj-photoscience-photo-library_rznzym.jpg)
+![A leukapheresis machine](https://res.cloudinary.com/jimsimages/image/upload/v1595843331/apheresis-machine-aj-photoscience-photo-library_rznzym.jpg "A leukapheresis machine")
 
 After the initial shock, came the thoughts of prognosis.
 
