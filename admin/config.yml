@@ -8,7 +8,7 @@ backend:
 media_library:
   name: cloudinary
   config:
-    cloud_name: jimimages
+    cloud_name: jimsimages
     api_key: 589933872349534
 
 
