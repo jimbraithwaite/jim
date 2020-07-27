@@ -5,7 +5,12 @@ backend:
 # Uncomment below to enable drafts
 # publish_mode: editorial_workflow
 
-media_folder: "static/img" # Media files will be stored in the repo under images/uploads
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: jimimages
+    api_key: 589933872349534
+
 
 collections:
   # Our blog posts
