@@ -2,6 +2,7 @@
 	--primary: blue;
 	--secondary: white;
 	--background: #FFF0EB;
+	--text: #312525;
 }
 
 *, *:before, *:after {
@@ -16,10 +17,12 @@ body {
 }
 
 body {
+	font-size: 20px;
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
 	background-color: var(--background);
+	color: var(--text);
 }
 
 main {
@@ -49,7 +52,7 @@ img {
 header,
 main,
 footer {
-	padding: 1em;
+	padding: 1.5em;
 }
 
 main {
@@ -78,6 +81,9 @@ pre {
 	margin: .5em 0;
 }
 
+header {
+	font-weight: bold;
+}
 /* Header Logo (style as h2) */
 header > em {
 	display: block;
