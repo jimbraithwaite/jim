@@ -7,6 +7,8 @@ eleventyNavigation:
   order: "3"
 
 ---
+![](https://res.cloudinary.com/jimsimages/image/upload/v1599537411/cml_agf57d.jpg)
+
 This year - 2020 - became my 35th on this earth.
 
 Of these 35 years I've now been alive, I’ve now been living with a chronic, terminal cancer for more years than I’ve not.
@@ -28,7 +30,7 @@ I'd been waking up every morning feeling like I needed to go back to bed. Knocke
 When my dad arrived, I was miserable, so I mustered the courage to head to the local hospital to see a doctor on our way home. We waited a while, then was seen. I described my symptoms, showed him my bruising. He immediately recommended doing blood tests. They took the bloods and we were told to come back in an hour or so once they'd been processed. Rather than sitting in the waiting room we drove out to the seafront, sat in the car and watched the sea. I had a can of coke from a cafe. We sat, mostly in silence, interspersed with moments of feeble optimism.
 
 ![](https://res.cloudinary.com/jimsimages/image/upload/v1599532832/scarborough_yt4h3c.jpg)
-*View of Scarborough North Bay, where we sat and waited.*
+_View of Scarborough North Bay, where we sat and waited._
 
 When we arrived back at the hospital, we were quickly ushered into a room. There was an air of concern.
 
@@ -123,7 +125,7 @@ At 17, it's challenging to process feeling lucky if you reach 21.
 
 At 17, you are far enough along your mortal coil to have just start thinking, doing and dreaming about the life ahead of you, without little awareness - let alone anxiety - of ones own mortality. That rears its head later in one's life. I was fast-tracked from the mind of a 17 year old, to 70, without the space (of life) between to reflect, without the wisdom to deal with such thought, and without the comfort of a 'life-lived'.
 
-Cancer, so far, has been relatively kind to me - physically, at least. 
+Cancer, so far, has been relatively kind to me - physically, at least.
 
 Mentally, perhaps, it has taken more of a toll.
 
@@ -131,4 +133,4 @@ Mentally, perhaps, it has taken more of a toll.
 
 My memory of this section of my life is poor. It takes significant effort to piece together. I think my mind has done a decent job at blotting out a lot of the detail of that time. A coping mechanism, most likely.
 
-As I've gotten older, I think it becomes important to document the important moments in ones life. 
+As I've gotten older, I think it becomes important to document the important moments in ones life.
