@@ -26,7 +26,8 @@ body {
 }
 
 main {
-	max-width: 37.5em;
+	width: 50%;
+	max-width: 40em;
 }
 
 p,
@@ -52,7 +53,7 @@ img {
 header,
 main,
 footer {
-	padding: 1.5em;
+	padding: 1.5em 6%;
 }
 
 main {
