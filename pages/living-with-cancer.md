@@ -122,8 +122,12 @@ At 17, it's challenging to process feeling lucky if you reach 21.
 
 At 17, you are far enough along your mortal coil to have just start thinking, doing and dreaming about the life ahead of you, without little awareness - let alone anxiety - of ones own mortality. That rears its head later in one's life. I was fast-tracked from the mind of a 17 year old, to 70, without the space (of life) between to reflect, without the wisdom to deal with such thought, and without the comfort of a 'life-lived'.
 
-Cancer, so far, has been relatively kind to me - physically, at least. Mentally it has taken its toll.
+Cancer, so far, has been relatively kind to me - physically, at least. 
 
-**Why I wrote this**
+Mentally, perhaps, it has taken more of a toll.
 
-I think it’s important to document, for sake of recall, important moments in ones life.
+#### **Why I wrote this**
+
+My memory of this section of my life is poor. It takes significant effort to piece together. I think my mind has done a decent job at blotting out a lot of the detail of that time. A coping mechanism, most likely.
+
+As I've gotten older, I think it becomes important to document the important moments in ones life. 
