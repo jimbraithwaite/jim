@@ -7,8 +7,6 @@ eleventyNavigation:
   order: "3"
 
 ---
-![](https://res.cloudinary.com/jimsimages/image/upload/v1599537411/cml_agf57d.jpg)
-
 This year - 2020 - became my 35th on this earth.
 
 Of these 35 years I've now been alive, I’ve now been living with a chronic, terminal cancer for more years than I’ve not.
