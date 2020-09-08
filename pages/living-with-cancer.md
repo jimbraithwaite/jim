@@ -27,7 +27,7 @@ I'd been waking up every morning feeling like I needed to go back to bed. Knocke
 
 When my dad arrived, I was miserable, so I mustered the courage to head to the local hospital to see a doctor on our way home. We waited a while, then was seen. I described my symptoms, showed him my bruising. He immediately recommended doing blood tests. They took the bloods and we were told to come back in an hour or so once they'd been processed. Rather than sitting in the waiting room we drove out to the seafront, sat in the car and watched the sea. I had a can of coke from a cafe. We sat, mostly in silence, interspersed with moments of feeble optimism.
 
-![Scarborough North Bay](/v1599532832/scarborough_yt4h3c.jpg "View of Scarborough North Bay, where I sat waiting for my blood tests.")
+![](https://res.cloudinary.com/jimsimages/image/upload/v1599532832/scarborough_yt4h3c.jpg)
 
 When we arrived back at the hospital, we were quickly ushered into a room. There was an air of concern.
 
@@ -54,11 +54,11 @@ Back to Leeds hospital every two weeks for more bloods, and bone marrow aspirati
 
 I quickly got used to needles, at least in the arm. One needle however - used in taking a sample of your bone marrow from inside the bone at the back of your hip - is not something you ever get used to. In fact, Bone marrow aspiration is an experience you are unlikely to forget.
 
-![](/v1595843331/Photograph-of-bone-marrow-BM-aspiration-needle-showing-A-stylet-B-needle-C_hee8wu.jpg)
+![](https://res.cloudinary.com/jimsimages/image/upload/v1595843331/Photograph-of-bone-marrow-BM-aspiration-needle-showing-A-stylet-B-needle-C_hee8wu.jpg)
 
 I was booked in and hooked up leukapheresis machine, a machine that pumps blood from one arm, spins it through a series of centrifuges and filters to remove the immature white cells, then the normalised blood is then pumped back into you.
 
-![](/v1595843331/apheresis-machine-aj-photoscience-photo-library_rznzym.jpg)
+![](https://res.cloudinary.com/jimsimages/image/upload/v1595843331/apheresis-machine-aj-photoscience-photo-library_rznzym.jpg)
 
 The chemotherapy pills they gave me initially (hydroxyurea) were a blunt instrument, only treating the imbalances in my blood counts. It was made clear that these pills did nothing to combat the cancer itself, and that the 'median survival' (measured in months) wouldn't be changed by taking these.
 
@@ -77,6 +77,8 @@ The first successful transplant was performed in New York in the late 1950s. The
 A bone marrow transplant is a marathon, not a sprint. The entire process lasts months, followed by intense monitoring.
 
 You start off with a mixture of intensive radiation, coupled with rounds of chemotherapy. The initial aim is to wipe out your broken immune system in its entirety. To nuke every last nook and cranny of your bone marrow within your bones. The first problem here is that if the treatments miss even a small amount, that will proliferate again and you'll be back to square one, after having run the marathon.
+
+![](https://res.cloudinary.com/jimsimages/image/upload/v1595843331/70692-129061_rd1hri.jpg)
 
 The next stage is to have the new immune system grafted back into you with a series of transfusions of stem cells and bone marrow back into your body.
 
