@@ -23,11 +23,11 @@ When the bruising appeared one day, I was on the loo. I looked down and saw my h
 
 The (Google) results that came back weren't great. Some of it pointed to the possibility of leukaemia and other blood cancers. I worried some more. _Surely I can't have this?_ _No. The likelyhood is miniscule. There has to be some other explanation._ A few weeks passed, as I waited for the bruises to subside. They didn't. If anything they were getting worse. The strangest part of the bruising was that they didn't hurt. Bruising on this scale _had_ to hurt. I showed my parents my findings, but they were the same. That's not likely; it will be something trivial. Try not to worry. In those few weeks I was in limbo. In denial.
 
-I'd been waking up every morning feeling like I needed to go back to bed. Knocked for six. And this particular morning I'd had enough. 
+I'd been waking up every morning feeling like I needed to go back to bed. Knocked for six. And this particular morning I'd had enough.
 
 When my dad arrived, I was miserable, so I mustered the courage to head to the local hospital to see a doctor on our way home. We waited a while, then was seen. I described my symptoms, showed him my bruising. He immediately recommended doing blood tests. They took the bloods and we were told to come back in an hour or so once they'd been processed. Rather than sitting in the waiting room we drove out to the seafront, sat in the car and watched the sea. I had a can of coke from a cafe. We sat, mostly in silence, interspersed with moments of feeble optimism.
 
-\[pic\]
+![Scarborough North Bay](/v1599532832/scarborough_yt4h3c.jpg "View of Scarborough North Bay, where I sat waiting for my blood tests.")
 
 When we arrived back at the hospital, we were quickly ushered into a room. There was an air of concern.
 
