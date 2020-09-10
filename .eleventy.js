@@ -76,6 +76,7 @@ module.exports = function(eleventyConfig) {
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");
   let markdownItAnchor = require("markdown-it-anchor");
+
   let options = {
     html: true,
     breaks: true,
@@ -84,10 +85,14 @@ module.exports = function(eleventyConfig) {
   let opts = {
     permalink: false
   };
+  
 
   eleventyConfig.setLibrary("md", markdownIt(options)
     .use(markdownItAnchor, opts)
+    .use(require('markdown-it-figure-caption'))
   );
+
+
 
   return {
     templateFormats: ["md", "njk", "html", "liquid"],

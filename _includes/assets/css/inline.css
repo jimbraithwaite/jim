@@ -1,8 +1,8 @@
 :root {
-	--primary: blue;
-	--secondary: white;
-	--background: #f9f3f3;
-	--text: #312525;
+	--primary: #EF6D63;
+	--secondary: #F9EFEB;
+	--background: #FFF8F5;
+	--text: #3C2F2A;
 }
 
 *, *:before, *:after {
@@ -13,7 +13,7 @@ html,
 body {
 	padding: 0;
 	margin: 0;
-	font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+	font-family: acumin-pro, sans-serif;
 }
 
 body {
@@ -23,11 +23,26 @@ body {
 	grid-template-rows: auto 1fr auto;
 	background-color: var(--background);
 	color: var(--text);
+	padding: 1em 1em;
+}
+@media only screen and (min-width: 600px) {
+	body {
+		padding: 1em 5em;
+	}
 }
 
 main {
-	width: 50%;
-	max-width: 40em;
+	width: 100%;
+	max-width: 33em;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	color: var(--text);
+	font-weight: normal;
+}
+
+p {
+	margin-top: 0;
 }
 
 p,
@@ -36,8 +51,7 @@ code {
 	line-height: 1.5;
 }
 
-a[href],
-a[href]:visited {
+a[href] {
 	color: var(--primary);
 }
 
@@ -48,21 +62,6 @@ a[href]:not(:hover) {
 img {
 	max-width: 100%;
 	height: auto;
-}
-
-header,
-main,
-footer {
-	padding: 1.5em 6%;
-}
-
-main {
-	padding-bottom: 2em;
-}
-
-main :first-child,
-main > article :first-child {
-	margin-top: 0;
 }
 
 pre {
@@ -82,17 +81,19 @@ pre {
 	margin: .5em 0;
 }
 
-header {
-	font-weight: bold;
+
+.c-page {
+	padding-bottom: 5em;
 }
-/* Header Logo (style as h2) */
-header > em {
-	display: block;
-	font-size: 2em;
-	margin: .67em 0;
-	font-weight: bold;
-	font-style: normal;
+.c-page__head {
+	font-size: 2.5ch;
+	padding: 20vh 0;
 }
+.c-footer {
+	padding: 1em 0;
+}
+
+
 
 /* Header Nav */
 header nav ul {
@@ -109,9 +110,9 @@ header nav li {
 	margin: 0 .25em;
 }
 
-header nav li a {
-	padding: .25em .5em;
-	border-radius: .25em;
+header nav li a[href] {
+	color: var(--text);
+	padding: .25em 1em .25em 0;
 }
 
 header nav li a[href]:not(:hover) {
@@ -119,21 +120,40 @@ header nav li a[href]:not(:hover) {
 }
 
 header nav li a[data-current="current item"] {
-	background-color: white;
+	color: var(--primary);
 }
 
 /* Posts List */
-article {
+.c-post-item {
 	margin-bottom: 1em;
 	padding-bottom: 1em;
-	border-bottom: 1px solid #eee;
 	border-bottom: 1px solid var(--secondary);
 }
+.c-post-item h3 {
+	margin-bottom: 0.2em;
+}
 
-main > section > article > * {
+
+.c-page > * {
 	margin-top: 0;
 	margin-bottom: .5em;
 }
+.c-page figure {
+	margin: 3em 0;
+}
+.c-page img {
+	width: 100%;
+}
+
+.c-page figcaption {
+	font-size: 80%;
+	opacity: 0.8;
+}
+.c-page p {
+	margin-bottom: 1.5em;
+}
+
+
 
 /* Post Tags */
 a[rel="tag"],

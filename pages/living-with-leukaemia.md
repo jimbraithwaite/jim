@@ -1,9 +1,9 @@
 ---
-title: Living with cancer
+title: Living with leukaemia
 date: 2018-01-01T00:00:00.000+00:00
-permalink: "/living-with-cancer.html"
+permalink: "/living-with-leukaemia.html"
 eleventyNavigation:
-  key: Living with cancer
+  key: Living with leukaemia
   order: "3"
 
 ---
@@ -27,8 +27,8 @@ I'd been waking up every morning feeling like I needed to go back to bed. Knocke
 
 When my dad arrived, I was miserable, so I mustered the courage to head to the local hospital to see a doctor on our way home. We waited a while, then was seen. I described my symptoms, showed him my bruising. He immediately recommended doing blood tests. They took the bloods and we were told to come back in an hour or so once they'd been processed. Rather than sitting in the waiting room we drove out to the seafront, sat in the car and watched the sea. I had a can of coke from a cafe. We sat, mostly in silence, interspersed with moments of feeble optimism.
 
-![](https://res.cloudinary.com/jimsimages/image/upload/v1599532832/scarborough_yt4h3c.jpg)
-_View of Scarborough North Bay, where we sat and waited._
+![View of Scarborough North Bay, where we sat and waited.](https://res.cloudinary.com/jimsimages/image/upload/v1599532832/scarborough_yt4h3c.jpg)
+
 
 When we arrived back at the hospital, we were quickly ushered into a room. There was an air of concern.
 

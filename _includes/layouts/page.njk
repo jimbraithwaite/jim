@@ -2,6 +2,9 @@
 layout: layouts/base.njk
 section: page
 ---
-<h1>{{ title }}</h1>
-
-{{ layoutContent | safe }}
+<article class="c-page">
+    <header class="c-page__head">
+    <h1>{{ title }}</h1>
+    </header>
+    {{ layoutContent | safe }}
+</article>
