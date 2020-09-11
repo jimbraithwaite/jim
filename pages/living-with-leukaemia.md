@@ -1,7 +1,7 @@
 ---
 title: Living with leukaemia
 date: 2018-01-01T00:00:00.000+00:00
-permalink: "/living-with-leukaemia.html"
+permalink: "/living-with-leukaemia"
 eleventyNavigation:
   key: Living with leukaemia
   order: "3"
