@@ -11,9 +11,11 @@ This year &mdash; 2020 &mdash; became my 35th on this earth.
 
 Of these 35 years I've now been alive, I’ve now been living with a chronic, terminal cancer for more years than I’ve not.
 
-In summer of 2001 I found out I had a Chronic Myeloid Leukaemia. I was 17 years old.
+In summer of 2001 I found out I had Chronic Myelogenous Leukaemia.
+I was 17 years old.
 
-As those who know me can attest; my memory isn't the sharpest. I remember that day clearly.
+As those who know me can attest; my memory isn't the sharpest.
+I remember that day clearly.
 
 My dad had driven to collect me from my girlfriend's house, and I was feeling particularly weak. The truth is I'd been feeling weak for months. My legs and hips had in recent weeks turned almost entirely purple with bruising that looked like I'd fallen from a mountain.
 
@@ -46,7 +48,7 @@ The ensuing days were a desperate, grey fog. I was bundled in an ambulance and t
 
 I lost count of the number of tests. I was kept in my own room, but there were other patients on the ward. I was on the forth floor in the old wing of the LGI - a haunting place at best of times. I remember being stood up against the window, staring out at the city square below. A nurse joked - _don't do it, it's not that bad_. I laughed. The irony wasn't lost on me.
 
-Eventually the diagnosis came; I had Chronic Myeloid Leukaemia. Inn the chronic phase. Lots of consultation, lots of questions, lots of harrowing leaflets. Trying to take it all in, through the fog.
+Eventually the diagnosis came; I had Chronic Myeloid Leukaemia. Currently in the chronic phase. Lots of consultation, lots of questions, lots of harrowing leaflets. Trying to take it all in, through the fog.
 
 I was sent home with a sack of large, brightly coloured pills (hydroxyurea).
 
@@ -55,11 +57,11 @@ Back to Leeds hospital every two weeks for more bloods, and bone marrow aspirati
 
 I quickly got used to needles, at least in the arm. One needle however - used in taking a sample of your bone marrow from inside the bone at the back of your hip - is not something you ever get used to. In fact, Bone marrow aspiration is an experience you are unlikely to forget.
 
-![](https://res.cloudinary.com/jimsimages/image/upload/v1595843331/Photograph-of-bone-marrow-BM-aspiration-needle-showing-A-stylet-B-needle-C_hee8wu.jpg)
+![Needle used for bone marrow aspiration](https://res.cloudinary.com/jimsimages/image/upload/v1595843331/Photograph-of-bone-marrow-BM-aspiration-needle-showing-A-stylet-B-needle-C_hee8wu.jpg)
 
 I was booked in and hooked up leukapheresis machine, a machine that pumps blood from one arm, spins it through a series of centrifuges and filters to remove the immature white cells, then the normalised blood is then pumped back into you.
 
-![](https://res.cloudinary.com/jimsimages/image/upload/v1595843331/apheresis-machine-aj-photoscience-photo-library_rznzym.jpg)
+![Leukapheresis machine](https://res.cloudinary.com/jimsimages/image/upload/v1595843331/apheresis-machine-aj-photoscience-photo-library_rznzym.jpg)
 
 The chemotherapy pills they gave me initially (hydroxyurea) were a blunt instrument, only treating the imbalances in my blood counts. It was made clear that these pills did nothing to combat the cancer itself, and that the 'median survival' (measured in months) wouldn't be changed by taking these.
 
@@ -69,17 +71,28 @@ The news wasn't great. The 'median survival' (there it is again), from the point
 
 One of the problems, I was told, is that CML can remain undetected for some time, so it was unclear how long I'd had the disease. Could have been 6 months, could have been 18 months. Doing the quick maths on that one didn't make for happy reading.
 
+I was told there was no specific cause, no hereditary predisposition, merely an extremely unfortunate chromosome mutation. I recall being told at the time that I had more statistical chance of winning the lottery that being diagnosed with CML at 17. I know which I'd have preferred. 
+
+It is more common in males than in females (1.4:1) and appears more commonly in the elderly with a median age at diagnosis of 65 years. Exposure to ionising radiation is a risk factor, based on a 50 fold higher incidence of CML in Hiroshima and Nagasaki nuclear bombing survivors.
+
+I was advised against having children, as it wouldn't be fair on them.
+
+***
+
+
 Back in 2001, treatment consisted of two main options, or just leaving it to run its course.
 
 ## 1. A Bone Marrow Transplant
 
-The first successful transplant was performed in New York in the late 1950s. The transplant involved identical twins, one of whom had leukaemia. There are essentially two types of bone marrow transplant. The first, from a related (sibling) donor. The second, from an unrelated donor that is selected from a bone marrow register. The first is far more preferable as it carries much less risk. There's a rather depressing 25% chance any given sibling is a bone marrow match. Unfortunately my sister wasn't. My samples were punched into the bone marrow register, then I waited. Eventually I had news that they'd found a 'suitable' match. Suitable is key here, as an unrelated transplant is no cake walk.
+The first successful transplant was performed in New York in the late 1950s. The transplant involved identical twins, one of whom had leukaemia. 
+
+There are essentially two types of bone marrow transplant. The first, from a related (sibling) donor. The second, from an unrelated donor that is selected from a bone marrow register. The first is far more preferable as it carries much less risk. There's a rather depressing 25% chance any given sibling is a bone marrow match. Unfortunately my sister wasn't. My samples were punched into the bone marrow register, then I waited. Eventually I had news that they'd found a 'suitable' match. Suitable is key here, as an unrelated transplant is no cake walk.
 
 A bone marrow transplant is a marathon, not a sprint. The entire process lasts months, followed by intense monitoring.
 
 You start off with a mixture of intensive radiation, coupled with rounds of chemotherapy. The initial aim is to wipe out your broken immune system in its entirety. To nuke every last nook and cranny of your bone marrow within your bones. The first problem here is that if the treatments miss even a small amount, that will proliferate again and you'll be back to square one, after having run the marathon.
 
-![](https://res.cloudinary.com/jimsimages/image/upload/v1595843331/70692-129061_rd1hri.jpg)
+![Radiotherapy Linear Accelerator](https://res.cloudinary.com/jimsimages/image/upload/v1595843331/70692-129061_rd1hri.jpg)
 
 The next stage is to have the new immune system grafted back into you with a series of transfusions of stem cells and bone marrow back into your body.
 
@@ -89,23 +102,35 @@ Assuming you keep the nasties at bay, the problem then shifts (again). The next 
 
 All of this adds up to some bleak odds. According to what I was told at the time, 20% of patients never make it out after the hospitalisation. For the 'lucky' remainder, they're definitively still _in the woods_.
 
-You are then under close  for a number of years. First for the risk of any graft-vs-host disease. Followed by a waiting game to see whether the clean 'wipe' of the old immune system radiation and chemotherapy did its job, or whether the disease managed to remain, in which case it's only a matter of time before relapse. After 5+ years of monitoring, you're deemed as in remission, where the odds of relapse are more favourable, though there's always a risk. From this stage, should you make it that far, you are finally classified as 'cured'.
+You are then under close monitoring for a number of years. First for the risk of any graft-vs-host disease. Followed by a waiting game to see whether the clean 'wipe' of the old immune system radiation and chemotherapy did its job, or whether the disease managed to remain, in which case it's only a matter of time before relapse. After 5+ years of monitoring, you're deemed as in remission, where the odds of relapse are more favourable, though there's always a risk. From this stage, should you make it that far, you are finally classified as 'cured'.
 
 ## 2. Interferon Alpha (IFNα)
 
 If patients were too sick or too old to even consider a bone marrow transplant and the toll it takes on the body, or too far along the disease, patients could be given another blunt instrument: interferon-α, which was showing to slow the disease progression, if in the grand scheme of things only a little. It bumped up the median 5-year survival rate to 50–59% compared with 29–44% with just hydroxyurea.
 
-My options were to weigh up either the ordeal of a bone marrow transplant, with a strong possibility of it not working factoring in the real risk of not making it out of hospital after the initial suppression, or counting your survival time in months with strong short term drugs.
+***
 
-You don't have to be as cynical as I am to understand neither were compelling choices. It was a bleak choice. Clinical advice was to go for a transplant. So we started the wheels in motion.
+## A date for transplant
 
-I visited the special ward where I would spend a few months. I started on radiotherapy, having sample doses strapped and locked down on to a table whilst operators switch on the machine then run out of the room before the red light comes on, and the dark nuclear machine whirs into life. I was given a date on which my transplant was going to start. The table was set.
+My options were to weigh up either the ordeal of a bone marrow transplant, with the real risk of not making it out of hospital after the initial suppression, or counting your survival time in months with strong drugs.
+
+You don't have to be as cynical as I am to understand neither were compelling choices. It was a bleak, but clinical advice was to go for a transplant. So we started the wheels in motion.
+
+My donor from the register was confirmed. I was given a date on which my transplant was going to start. The table was set.
+
+I started on radiotherapy, having sample doses at the radiation facility at the now-closed Cookridge Hospital in Leeds, where a 'High Energy Radiation Centre', providing treatment of cancer with Cobalt-60 machines since 1950s. 
+
+I was strapped and locked on to a table whilst operators switch on the machine then quickly vacate the room before a red light comes on, and the dark nuclear machine whirs into life. 
+
+I visited the special facility where I would spend the months after my radiation, recieving the high-dose chemotherapy, the bone marrow transplant itself, and the consequent quarantine.
 
 
+***
 
-## 3. Along came Imatinib - Tyrosine Kinase Inhibitors (TKIs)
 
-I was back in hospital for my routine bloodwork and consultation, not long before my transplant was due. One of the consultant heamatologists mentioned some clinical trials of a new type of drug that had shown promise. He explained they very new, and whilst they had shown promising results in trials, the historical data on their efficacy just wasn't there. At that time they were not available in the UK, thought he thought he may be soon be approved for use by NICE, the governing body that determines which new drugs from trials become available.
+## Along came Imatinib
+
+I was back in hospital for my routine bloodwork and consultation, not long before my transplant was due. One of the consultant heamatologists mentioned some clinical trials of a new type of drug that had shown promise, called - Imatinib. Tyrosine Kinase Inhibitors (TKIs). He explained they very new, and whilst they had shown promising results in trials, the historical data on their efficacy just wasn't there. At that time they were not available in the UK, thought he thought he may be soon be approved for use by NICE, the governing body that determines which new drugs from trials become available.
 
 Given the other options available, I was very interested. To me, a promising clinical trail was better placing my faith in than the, frankly miserable, alternatives. I confirmed my intent, and before too much longer was one of the first people in the UK to be prescribed it.
 
