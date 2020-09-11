@@ -159,7 +159,7 @@ On the 28th May 2001 it made the cover of Time magazine.
 
 ***
 
-Aside from the physical and mental trauma one would expect, one of ways in which cancer affected me that I'm most sad about, is that it took from me the optimism of my youth.
+Aside from the physical and mental trauma one would expect, one of the ways in which cancer affected me that I'm most sad about, is that it took from me the optimism of my youth.
 
 At 17, you are at your zenith. The centrepoint of the venn-diagram. On one side: the self-awareness and confidence you gain reaching your late teens - a mind more open to life's possibilities than the innocence of childhood, and the other: a long stretch of time out in front of you, the future life ahead of you, before the rigours of adult life have taken their toll.
 
