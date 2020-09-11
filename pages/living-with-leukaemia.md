@@ -22,7 +22,7 @@ When the weakness started, what was probably a good few months prior, I attribut
 
 I was on the loo one day when I noticed the bruising. I looked down and saw my hip and thigh had some nasty purple marking. I was very confused - I couldn't recall taking a tumble. I put it down to a possible knock on a night out after college. It was when the bruising appeared on the _other_ side of my body my concern grew. How could I have fallen, or been knocked _on both sides_? My mind moved towards thinking something wasn't right. Eventually I plucked up the courage to do what you're never supposed to do - Google your symptoms.
 
-The (Google) results that came back weren't great. Some of it pointed to the possibility of leukaemia and other blood cancers. Concerning. _Surely I can't have this?_ _No. The likelyhood is miniscule. There has to be some other explanation._ A few weeks passed, as I waited for the bruises to subside. They didn't. If anything they were getting worse. The strangest part of the bruising was that they didn't hurt. Bruising on this scale _had_ to hurt. I showed my parents my findings, but they were the same: _That's not likely; it will be something trivial. Try not to worry._ In those few weeks I was in limbo. In denial.
+The (Google) results that came back weren't great. Some of it pointed to the possibility of leukaemia and other blood cancers. Concerning. _Surely I can't have this?_ _No. The likelihood is miniscule. There has to be some other explanation._ A few weeks passed, as I waited for the bruises to subside. They didn't. If anything they were getting worse. The strangest part of the bruising was that they didn't hurt. Bruising on this scale _had_ to hurt. I showed my parents my findings, but they were the same: _That's not likely; it will be something trivial. Try not to worry._ In those few weeks I was in limbo. In denial.
 
 I'd been waking up every morning feeling like I needed to go back to bed. Knocked for six. And this particular morning I'd had enough.
 
@@ -129,7 +129,7 @@ I was invited to visit the bone marrow transplant unit, where I would spend the 
 
 ## Along came Imatinib
 
-I was back in hospital for a routine bloodwork and consultation, not long before my transplant was due. One of the consultant haematologists mentioned some clinical trials of a drug that had been showing promise, called - <a href="https://en.wikipedia.org/wiki/Imatinib">Imatinib</a>, a new type of medication called a <a href="https://en.wikipedia.org/wiki/Tyrosine_kinase_inhibitor">Tyrosine Kinase Inhibitor (TKI)</a>. He explained they brand new, and whilst they had shown promising results in trials, the historical data on their efficacy just wasn't there. At that time they were not available in the UK, thought he thought he may be soon be approved for use by <a href="https://en.wikipedia.org/wiki/National_Institute_for_Health_and_Care_Excellence">NICE</a>, the governing body that determines which new drugs from trials become available.
+I was back in hospital for a routine blood-work and consultation, not long before my transplant was due. One of the consultant haematologists mentioned some clinical trials of a drug that had been showing promise, called - <a href="https://en.wikipedia.org/wiki/Imatinib">Imatinib</a>, a new type of medication called a <a href="https://en.wikipedia.org/wiki/Tyrosine_kinase_inhibitor">Tyrosine Kinase Inhibitor (TKI)</a>. He explained they brand new, and whilst they had shown promising results in trials, the historical data on their efficacy just wasn't there. At that time they were not available in the UK, thought he thought he may be soon be approved for use by <a href="https://en.wikipedia.org/wiki/National_Institute_for_Health_and_Care_Excellence">NICE</a>, the governing body that determines which new drugs from trials become available.
 
 ![](https://res.cloudinary.com/jimsimages/image/upload/v1599842269/novartisgliv_aptoro.jpg)
 
@@ -141,17 +141,17 @@ As it turns out, the first clinical trial of Imatinib took place in 1998 and the
 
 I started on the new medication, under careful monitoring. Tests were frequent. I started showing signs that the levels of the disease were coming down.
 
-Fast forward 14 years and the story is much same. Continue taking the medication, dealing with the fluctations in disease levels, moniroting regularly, deal with the side effects.
+Fast forward 14 years and the story is much same. Continue taking the medication, dealing with the fluctuations in disease levels, monitoring regularly, deal with the side effects.
 
 There are some who unfortunately cannot take Imatinib (or indeed the newer offshoots Dasatinib, nilotinib, radotinib and bosutinib).
 
-Many experience nausea, vomiting, diarrhea, headaches, leg aches/cramps, fluid retention, visual disturbances, itchy rashes, lowered resistance to infection, bruising or bleeding, loss of appetite, weight gain, reduced number of blood cells (neutropenia, thrombocytopenia, anemia), and edema.
+Many experience nausea, vomiting, diarrhoea, headaches, leg aches/cramps, fluid retention, visual disturbances, itchy rashes, lowered resistance to infection, bruising or bleeding, loss of appetite, weight gain, reduced number of blood cells (neutropenia, thrombocytopenia, anemia), and edema.
 
-Severe congestive cardiac failure is an uncommon but recognized side effect of imatinib. Animals treated with large doses of imatinib show toxic damage to the muscle tissue of the heart (myocardium), so much so that human trials almost never took place.
+Severe congestive cardiac failure is an uncommon but recognised side effect of imatinib. Animals treated with large doses of imatinib show toxic damage to the muscle tissue of the heart (myocardium), so much so that human trials almost never took place.
 
 I've certainly experienced many of the more common side effects, but they are a price worth paying for keeping me alive. Again, I deem myself lucky.
 
-The impact of imatinib can't be understated. Due to the development of imatinib and its related treatments, the five year survival rate for people with Chronic Myeloid Leukeamia increased from 31% in 1993, to 59% in 2009, to 70% in 2016.
+The impact of imatinib can't be understated. Due to the development of imatinib and its related treatments, the five year survival rate for people with Chronic Myeloid Leukaemia increased from 31% in 1993, to 59% in 2009, to 70% in 2016.
 
 On the 28th May 2001 it made the cover of Time magazine.
 
@@ -169,7 +169,7 @@ At 17, it's challenging to process feeling lucky if you reach 21.
 
 At 17, you are far enough along your mortal coil to have _just_ started to think about, to dream about, the life ahead of you, with little awareness - let alone anxiety - of your own mortality. That shit normally keeps its head down until much later in one's life. I was fast-tracked from the mind of a 17 year old, to somewhere approaching 70, without the space (of life) between to reflect, without the wisdom to deal with such thoughts, and without the comfort of a 'life-lived'.
 
-It's strange to feel geniuinely lucky to be alive. That if modern medicine hadn't intervened, I wouldn't have seen 21.
+It's strange to feel genuinely lucky to be alive. That if modern medicine hadn't intervened, I wouldn't have seen 21.
 
 Cancer, so far, has been relatively kind to me - physically, at least.
 
