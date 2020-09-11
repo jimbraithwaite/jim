@@ -96,9 +96,9 @@ The next stage is to have the new immune system grafted back into you with a ser
 
 Then you must wait. The problem then shifts. As you're so severely immune-suppressed at this point, any bacteria or virus even looks at you the wrong way and it's game over. It's a real risk that even a mild cold or infection could set in and kill you within hours or days. To try and combat this, you are kept in a special isolation ward, with very few staff and patients. The entire ward is kept held in a positive pressure chamber, where the air pressure inside is much higher than outside, by way of a laminar air flow (LAF) ventilation system. When the air seal is broken (for example when people do enter and exit the ward) air rushes out, rather than in, so airborne contaminants are less likely to flood the chamber. There's also a double-door airlock system on entry to the ward, where those entering have to wear full body scrubs, shoe coverings and decontaminate with sanitiser. If it wasn't for the high risk of dying, it'd be quite cool. Some sci-fi shit right there.
 
-Assuming you keep the nasties at bay, the problem then shifts (again). The next risk is graft-vs-host disease. This delight is where your shiny new immune system happens to decide that the new body it finds itself in a foreign one, and starts attacking it. If this happens, things are bleak, and go downhill fast.
+Assuming you keep the nasties at bay, the problem then shifts (again). The next risk is graft-vs-host disease. This delight is where your shiny new immune system happens to decide that the new body it finds itself in a foreign one, and starts attacking it. If this happens, things aren't looking good, and you go downhill fast.
 
-All of this adds up to some bleak odds. According to what I was told at the time, around 20% of patients never make it out after hospitalisation. And for the 'lucky' remainder, they're definitively still _in the woods_.
+All of this adds up to some unfavourable odds. According to what I was told at the time, around 20% of patients never make it out after hospitalisation. And for the 'lucky' remainder, they're definitively still _in the woods_.
 
 You are then under close monitoring for a number of years. First for the risk of any graft-vs-host disease. Followed by a waiting game to see whether the clean 'wipe' of the old immune system radiation and chemotherapy did its job, or whether the disease managed to remain, in which case it's only a matter of time before relapse. After 5+ years of monitoring, you're deemed as in remission, where the odds of relapse are more favourable, though there's always a risk. From this stage, should you make it that far, you are finally classified as 'cured'.
 
@@ -112,7 +112,7 @@ If patients were too sick or too old to even consider a bone marrow transplant a
 
 My options were thus: brave the ordeal of a bone marrow transplant, with the real risk of not making it out of hospital after the initial suppression, or counting your survival time in months with strong drugs.
 
-You don't have to be as cynical as I am to understand neither were compelling choices. It was a bleak, but clinical advice was to go for a transplant. So we started the wheels in motion.
+You don't have to be as cynical as I am to understand neither were compelling choices. It was bleak, but clinical advice was to go for a transplant. So we started the wheels in motion.
 
 My donor from the register was confirmed. I was given a date on which my transplant was going to start. The table was set.
 
