@@ -181,4 +181,4 @@ Mentally perhaps, it has taken more of a toll.
 
 My memory of this section of my life is poor. It takes significant effort to piece together. My mind has been efficient at blotting out a lot of the detail. A coping mechanism, most likely.
 
-I often find myself having to recall this information when I'm speaking to people about my health, whether or not I've known them a significant amount of time. As I've gotten older, I've felt a need to document these experiences, something I didn't do at the time.
+I often find myself having to recall this information when I'm speaking to people about my health, whether or not I've known them a significant amount of time. As I've grown older, I felt a need to document these experiences, something I didn't do at the time.
