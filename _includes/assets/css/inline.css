@@ -78,9 +78,9 @@ pre {
 	margin: .5em 0;
 }
 hr {
-	margin: 10em 0 8em;
+	margin: 7em 0 6em;
 	border-top: 1px solid var(--primary);
-	opacity: 0.1;
+	opacity: 0.2;
 }
 
 

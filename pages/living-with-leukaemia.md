@@ -148,7 +148,9 @@ At 17, you’re going to live forever. Not a median of 4 more years.
 
 At 17, it's challenging to process feeling lucky if you reach 21.
 
-At 17, you are far enough along your mortal coil to have just start thinking, doing and dreaming about the life ahead of you, without little awareness - let alone anxiety - of ones own mortality. That rears its head later in one's life. I was fast-tracked from the mind of a 17 year old, to 70, without the space (of life) between to reflect, without the wisdom to deal with such thought, and without the comfort of a 'life-lived'.
+At 17, you are far enough along your mortal coil to have *just* started to think about, to dream about, the life ahead of you, with little awareness - let alone anxiety - of ones own mortality. That shit keeps its head down until later in one's life. I was fast-tracked from the mind of a 17 year old, to 70, without the space (of life) between to reflect, without the wisdom to deal with such thought, and without the comfort of a 'life-lived'.
+
+It's strange to feel geniuinely lucky to be alive. That if modern medicine hadn't intervened, I wouldn't have seen 21.
 
 Cancer, so far, has been relatively kind to me - physically, at least.
 
