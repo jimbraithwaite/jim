@@ -18,7 +18,7 @@ I remember that day clearly.
 
 My dad had driven to collect me from my girlfriend's house, and I was feeling particularly weak. The truth is I'd been feeling weak for months. My legs and hips had in recent weeks turned almost entirely purple with bruising that looked like I'd fallen from a mountain.
 
-When the weakness started, what was probably a good few months prior, I attributed it to a my lifestyle. Getting up early for college (having to be on a bus at 7am), not going to bed early enough, probably not eating all that well. _Burning the candle at both ends._
+When the weakness started, what was probably a good few months prior, I attributed it to my lifestyle. Getting up early for college (having to be on a bus at 7am), not going to bed early enough, probably not eating all that well. _Burning the candle at both ends._
 
 I was on the loo one day when I noticed the bruising. I looked down and saw my hip and thigh had some nasty purple marking. I was very confused - I couldn't recall taking a tumble. I put it down to a possible knock on a night out after college. It was when the bruising appeared on the _other_ side of my body my concern grew. How could I have fallen, or been knocked _on both sides_? My mind moved towards thinking something wasn't right. Eventually I plucked up the courage to do what you're never supposed to do - Google your symptoms.
 
@@ -85,7 +85,7 @@ Back in 2001, treatment consisted of two main options, or just leaving it to run
 
 The first successful transplant was performed in New York in the late 1950s. The transplant involved identical twins, one of whom had leukaemia.
 
-There are essentially two types of bone marrow transplant. The first, from a related (sibling) donor. The second, from an unrelated donor that is selected from a bone marrow register. The first is far more preferable as it carries much less risk. There's a rather depressing 25% chance any given sibling is a bone marrow match. Unfortunately my sister wasn't. My samples were punched into the bone marrow register, then I waited. Eventually I had news that they'd found a 'suitable' match. Suitable is key here, as an unrelated transplant is no cake walk.
+There are essentially two types of bone marrow transplant. The first, from a related (sibling) donor. The second, from an unrelated donor that is selected from a bone marrow register. The first is far more preferable as it carries much less risk. There's a rather depressing 25% chance any given sibling is a bone marrow match. Unfortunately my sister wasn't. My samples were punched into the bone marrow register, then I waited. Eventually I had news that they'd found a 'suitable' match. Suitable is key here, as an unrelated transplant is no walk in the park.
 
 A bone marrow transplant is a marathon, not a sprint. The entire process lasts months, followed by intense monitoring.
 
