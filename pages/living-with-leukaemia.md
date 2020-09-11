@@ -119,18 +119,20 @@ My donor from the register was confirmed. I was given a date on which my transpl
 
 I started on radiotherapy, having sample doses at the radiation facility at the now-closed Cookridge Hospital in Leeds, where a 'High Energy Radiation Centre', providing treatment of cancer with Cobalt-60 and linear accelerator machines since 1950s.
 
-![](https://res.cloudinary.com/jimsimages/image/upload/v1599836293/cobalt-60-machine_tovqu7.jpg)  
-![](https://res.cloudinary.com/jimsimages/image/upload/v1599836321/linac_idg3mp.jpg)
+![The early Cobalt-60 machine at Cookridge Hospital](https://res.cloudinary.com/jimsimages/image/upload/v1599836293/cobalt-60-machine_tovqu7.jpg "The early Cobalt-60 machine at Cookridge Hospital")  
+![The early Linac machine at Cookridge Hospital](https://res.cloudinary.com/jimsimages/image/upload/v1599836321/linac_idg3mp.jpg "The early Linac machine at Cookridge Hospital")
 
 I was strapped and locked on to a table whilst operators switch on the machine then quickly vacate the room before a red light comes on, and the dark nuclear machine whirs into life.
 
-I was invited to visit the bone marrow transplant unit, where I would spend the months after my radiation, recieving the high-dose chemotherapy, the bone marrow transplant itself, and the consequent quarantine.
+I was invited to visit the bone marrow transplant unit, where I would spend the months after my radiation, receiving the high-dose chemotherapy, the bone marrow transplant itself, and the consequent quarantine.
 
 ***
 
 ## Along came Imatinib
 
-I was back in hospital for a routine bloodwork and consultation, not long before my transplant was due. One of the consultant heamatologists mentioned some clinical trials of a drug that had been showing promise, called - <a href="https://en.wikipedia.org/wiki/Imatinib">Imatinib</a>, a new type of medication called a <a href="https://en.wikipedia.org/wiki/Tyrosine_kinase_inhibitor">Tyrosine Kinase Inhibitor (TKI)</a>. He explained they brand new, and whilst they had shown promising results in trials, the historical data on their efficacy just wasn't there. At that time they were not available in the UK, thought he thought he may be soon be approved for use by <a href="https://en.wikipedia.org/wiki/National_Institute_for_Health_and_Care_Excellence">NICE</a>, the governing body that determines which new drugs from trials become available.
+I was back in hospital for a routine bloodwork and consultation, not long before my transplant was due. One of the consultant haematologists mentioned some clinical trials of a drug that had been showing promise, called - <a href="https://en.wikipedia.org/wiki/Imatinib">Imatinib</a>, a new type of medication called a <a href="https://en.wikipedia.org/wiki/Tyrosine_kinase_inhibitor">Tyrosine Kinase Inhibitor (TKI)</a>. He explained they brand new, and whilst they had shown promising results in trials, the historical data on their efficacy just wasn't there. At that time they were not available in the UK, thought he thought he may be soon be approved for use by <a href="https://en.wikipedia.org/wiki/National_Institute_for_Health_and_Care_Excellence">NICE</a>, the governing body that determines which new drugs from trials become available.
+
+![](https://res.cloudinary.com/jimsimages/image/upload/v1599842269/novartisgliv_aptoro.jpg)
 
 Given the other options available, I was very interested. To me, a promising clinical trail was better placing my faith in than the — frankly miserable — alternatives. I confirmed my intent, and before too much longer was one of the first people in the UK to be prescribed it.
 
