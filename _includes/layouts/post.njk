@@ -3,25 +3,34 @@ layout: layouts/base.njk
 section: post
 ---
 
-<article>
+<article class="c-page c-page--post">
   <header class="c-page__head">
-      <h1>{{ title }}</h1>
-      <nav>
-        <a href="{{ '/travel/' | url }}">← Travel index</a>
+  <nav>
+      <a href="{{ '/travel/' | url }}">← Travel index</a>
       </nav>
+      <h1>{{ title }}</h1>
+      {% if tags %}
+      <p>
+      {% for tag in tags %}
+        {%- if tag != "post" -%}
+          {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+          <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+        {%- endif -%}
+      {% endfor %}
+      </p>
+    {% endif %}
+      
   </header>
 
-  {{ layoutContent | safe }}
-
-  {% if tags %}
-    <p>
-    {% for tag in tags %}
-      {%- if tag != "post" -%}
-        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
-        <a href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
-      {%- endif -%}
+  {% if image_gallery %}
+    <div class="c-image-gallery">
+    {% for image in image_gallery %}
+        <img src="{{ image }}" />
     {% endfor %}
-    </p>
+    </div>
   {% endif %}
+
+
+
 
 </article>

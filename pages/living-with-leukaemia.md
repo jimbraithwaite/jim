@@ -7,7 +7,7 @@ eleventyNavigation:
   order: "3"
 
 ---
-This year - 2020 - became my 35th on this earth.
+This year &mdash; 2020 &mdash; became my 35th on this earth.
 
 Of these 35 years I've now been alive, I’ve now been living with a chronic, terminal cancer for more years than I’ve not.
 
@@ -36,7 +36,7 @@ It wasn't good.
 
 The consultant started by explaining blood counts. I knew about different blood cells and broadly what they did, but not what levels they were supposed to be. They gave me a brief run down. Yep, yep, white cells, red cells, platelets.
 
-White cell totals, in the normal range, are supposed to be (roughly) between 5 - 10 (x10^3 parts per micro litre).
+White cell totals, in the normal range, are supposed to be (roughly) between 5 &ndash; 10 (&times;10<sup>^</sup>3 parts per micro litre).
 
 Mine were over 200. Logically, I asked why. He was reluctant to give me definitive answer, but said a possible cause could be some blood cancer mutations (such as leukaemia) cause the bone marrow (responsible for creating your blood cells) to flood your system with far too many immature white cells. They couldn't confirm this until more tests were done.
 
