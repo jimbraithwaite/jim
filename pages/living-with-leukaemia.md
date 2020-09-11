@@ -117,7 +117,10 @@ You don't have to be as cynical as I am to understand neither were compelling ch
 
 My donor from the register was confirmed. I was given a date on which my transplant was going to start. The table was set.
 
-I started on radiotherapy, having sample doses at the radiation facility at the now-closed Cookridge Hospital in Leeds, where a 'High Energy Radiation Centre', providing treatment of cancer with Cobalt-60 machines since 1950s.
+I started on radiotherapy, having sample doses at the radiation facility at the now-closed Cookridge Hospital in Leeds, where a 'High Energy Radiation Centre', providing treatment of cancer with Cobalt-60 and linear accelerator machines since 1950s.
+
+![](https://res.cloudinary.com/jimsimages/image/upload/v1599836293/cobalt-60-machine_tovqu7.jpg)  
+![](https://res.cloudinary.com/jimsimages/image/upload/v1599836321/linac_idg3mp.jpg)
 
 I was strapped and locked on to a table whilst operators switch on the machine then quickly vacate the room before a red light comes on, and the dark nuclear machine whirs into life.
 
