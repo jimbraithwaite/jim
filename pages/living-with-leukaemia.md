@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 This year — 2020 — became my 35th on this round old rock.
 
-Of these 35 years, I’ve now been living with a chronic, terminal cancer for more years than I've not.
+Of those 35 years, I’ve now been living with a chronic, terminal cancer for more years than I've not.
 
 In summer of 2001 I was diagnosed with Chronic Myelogenous Leukaemia. I was 17 years old.
 
