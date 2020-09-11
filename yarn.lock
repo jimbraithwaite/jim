@@ -1482,15 +1482,9 @@ markdown-it-anchor@^5.2.7:
   resolved "https://registry.yarnpkg.com/markdown-it-anchor/-/markdown-it-anchor-5.3.0.tgz#d549acd64856a8ecd1bea58365ef385effbac744"
   integrity sha512-/V1MnLL/rgJ3jkMWo84UR+K+jF1cxNG1a+KwqeXqTIJ+jtA8aWSHuigx8lTzauiIjBDbwF3NcWQMotd0Dm39jA==
 
-markdown-it-figure-caption@^0.1.0:
+"markdown-it-figure-caption@https://github.com/jimbraithwaite/markdown-it-figure-caption":
   version "0.1.0"
-  resolved "https://registry.yarnpkg.com/markdown-it-figure-caption/-/markdown-it-figure-caption-0.1.0.tgz#6e1b732de356c8069fd1048460f6d0a90375e531"
-  integrity sha1-bhtzLeNWyAaf0QSEYPbQqQN15TE=
-
-markdown-it-implicit-figures@^0.10.0:
-  version "0.10.0"
-  resolved "https://registry.yarnpkg.com/markdown-it-implicit-figures/-/markdown-it-implicit-figures-0.10.0.tgz#0e75e80b846da1e3117a3fc6d6b013d0cc3f2a8c"
-  integrity sha512-1TWr6+apyoJvRa4Z7eIolZdeajZCRBcc1ckVXon7XwdL8MfydIWsHnZOS5zRrpUNX5b0/O9giWcmuItSkleK5A==
+  resolved "https://github.com/jimbraithwaite/markdown-it-figure-caption#0e0c3fe1a66032beee37f6069cf8f3e2971354f7"
 
 markdown-it@^10.0.0:
   version "10.0.0"

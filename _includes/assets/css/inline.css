@@ -27,7 +27,7 @@ body {
 }
 @media only screen and (min-width: 600px) {
 	body {
-		padding: 1em 5em;
+		padding: 1em 5em 1em 10%;
 	}
 }
 
@@ -37,7 +37,7 @@ main {
 }
 
 h1,h2,h3,h4,h5,h6 {
-	color: var(--text);
+	color: var(--primary);
 	font-weight: normal;
 }
 
@@ -53,10 +53,11 @@ code {
 
 a[href] {
 	color: var(--primary);
+	text-decoration: none;
 }
 
-a[href]:not(:hover) {
-	text-decoration: none;
+a[href]:hover {
+	border-bottom: 1px solid var(--secondary);
 }
 
 img {
@@ -80,17 +81,10 @@ pre {
 	padding: 1em;
 	margin: .5em 0;
 }
-
-
-.c-page {
-	padding-bottom: 5em;
-}
-.c-page__head {
-	font-size: 2.5ch;
-	padding: 20vh 0;
-}
-.c-footer {
-	padding: 1em 0;
+hr {
+	margin: 10em 0 8em;
+	border-top: 1px solid var(--primary);
+	opacity: 0.1;
 }
 
 
@@ -108,11 +102,11 @@ header nav ul :first-child {
 header nav li {
 	display: inline-block;
 	margin: 0 .25em;
+	padding: .25em 1em .25em 0;
 }
 
 header nav li a[href] {
 	color: var(--text);
-	padding: .25em 1em .25em 0;
 }
 
 header nav li a[href]:not(:hover) {
@@ -133,11 +127,20 @@ header nav li a[data-current="current item"] {
 	margin-bottom: 0.2em;
 }
 
-
-.c-page > * {
-	margin-top: 0;
-	margin-bottom: .5em;
+.c-page {
+	padding-bottom: 5em;
 }
+.c-page__head {
+	padding: 20vh 0;
+}
+.c-page__head h1, .c-page__head h2 {
+	color: var(--text);
+	font-size: 4ch;
+}
+.c-footer {
+	padding: 1em 0;
+}
+
 .c-page figure {
 	margin: 3em 0;
 }

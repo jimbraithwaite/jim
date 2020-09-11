@@ -71,7 +71,7 @@ One of the problems, I was told, is that CML can remain undetected for some time
 
 Back in 2001, treatment consisted of two main options, or just leaving it to run its course.
 
-### 1. Bone Marrow Transplant
+## 1. A Bone Marrow Transplant
 
 The first successful transplant was performed in New York in the late 1950s. The transplant involved identical twins, one of whom had leukaemia. There are essentially two types of bone marrow transplant. The first, from a related (sibling) donor. The second, from an unrelated donor that is selected from a bone marrow register. The first is far more preferable as it carries much less risk. There's a rather depressing 25% chance any given sibling is a bone marrow match. Unfortunately my sister wasn't. My samples were punched into the bone marrow register, then I waited. Eventually I had news that they'd found a 'suitable' match. Suitable is key here, as an unrelated transplant is no cake walk.
 
@@ -91,7 +91,7 @@ All of this adds up to some bleak odds. According to what I was told at the time
 
 You are then under close  for a number of years. First for the risk of any graft-vs-host disease. Followed by a waiting game to see whether the clean 'wipe' of the old immune system radiation and chemotherapy did its job, or whether the disease managed to remain, in which case it's only a matter of time before relapse. After 5+ years of monitoring, you're deemed as in remission, where the odds of relapse are more favourable, though there's always a risk. From this stage, should you make it that far, you are finally classified as 'cured'.
 
-### 2. Interferon Alpha (IFNα)
+## 2. Interferon Alpha (IFNα)
 
 If patients were too sick or too old to even consider a bone marrow transplant and the toll it takes on the body, or too far along the disease, patients could be given another blunt instrument: interferon-α, which was showing to slow the disease progression, if in the grand scheme of things only a little. It bumped up the median 5-year survival rate to 50–59% compared with 29–44% with just hydroxyurea.
 
@@ -101,11 +101,13 @@ You don't have to be as cynical as I am to understand neither were compelling ch
 
 I visited the special ward where I would spend a few months. I started on radiotherapy, having sample doses strapped and locked down on to a table whilst operators switch on the machine then run out of the room before the red light comes on, and the dark nuclear machine whirs into life. I was given a date on which my transplant was going to start. The table was set.
 
-### **The dawn of Imatinib - Tyrosine Kinase Inhibitors (TKIs) **
+
+
+## 3. Along came Imatinib - Tyrosine Kinase Inhibitors (TKIs)
 
 I was back in hospital for my routine bloodwork and consultation, not long before my transplant was due. One of the consultant heamatologists mentioned some clinical trials of a new type of drug that had shown promise. He explained they very new, and whilst they had shown promising results in trials, the historical data on their efficacy just wasn't there. At that time they were not available in the UK, thought he thought he may be soon be approved for use by NICE, the governing body that determines which new drugs from trials become available.
 
-Given the other options available, I was very interested. To me, a promising clinical trail was better placing my faith in than the frankly miserable alternatives. I confirmed my intent, and before too much longer was one of the first people in the UK to be prescribed it.
+Given the other options available, I was very interested. To me, a promising clinical trail was better placing my faith in than the, frankly miserable, alternatives. I confirmed my intent, and before too much longer was one of the first people in the UK to be prescribed it.
 
 In a dark sense of luck, I'd been diagnosed with cancer at the right time.
 
@@ -127,7 +129,10 @@ Cancer, so far, has been relatively kind to me - physically, at least.
 
 Mentally, perhaps, it has taken more of a toll.
 
-#### **Why I wrote this**
+***
+
+
+### Why I wrote this
 
 My memory of this section of my life is poor. It takes significant effort to piece together. I think my mind has done a decent job at blotting out a lot of the detail of that time. A coping mechanism, most likely.
 

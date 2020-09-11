@@ -4,12 +4,12 @@ section: post
 ---
 
 <article>
-  <h1>{{ title }}</h1>
-  <p>
-    <small>
-      <time datetime="{{ date | machineDate }}">{{ date | readableDate }}</time>
-    </small>
-  </p>
+  <header class="c-page__head">
+      <h1>{{ title }}</h1>
+      <nav>
+        <a href="{{ '/travel/' | url }}">← Travel index</a>
+      </nav>
+  </header>
 
   {{ layoutContent | safe }}
 
@@ -25,7 +25,3 @@ section: post
   {% endif %}
 
 </article>
-
-<nav>
-  <a href="{{ '/travel/' | url }}">← Travel index</a>
-</nav>

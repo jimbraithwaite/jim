@@ -14,7 +14,12 @@ renderData:
   title: "Tagged “{{ tag }}”"
 ---
 
-<h1>Tagged “{{ tag }}”</h1>
+<header class="c-page__head">
+    <h1>Tagged '{{ tag }}'</h1>
+    <nav>
+      <a href="{{ '/travel/' | url }}">← Travel index</a>
+    </nav>
+</header>
 
 {% set postslist = collections[ tag ] %}
 {% include "components/postslist.njk" %}
