@@ -121,7 +121,6 @@ I started with radiotherapy, having sample doses at the radiation facility at th
 
 ![Early Cobalt-60 machine at Cookridge Hospital](https://res.cloudinary.com/jimsimages/image/upload/v1599836293/cobalt-60-machine_tovqu7.jpg)![Early Linear accelerator machine at Cookridge Hospital](https://res.cloudinary.com/jimsimages/image/upload/v1599836321/linac_idg3mp.jpg)
 
-
 I was strapped and locked on to a table whilst operators switch on the machine, then quickly vacate the room before a red light comes on, and the particle accelerator whirs into life.
 
 I was invited to visit the bone marrow transplant unit, where I would spend the months after my radiation, receiving the high-dose chemotherapy, the bone marrow transplant itself, and the consequent quarantine.
@@ -140,18 +139,23 @@ In a dark sense of luck, I'd been diagnosed with cancer at the right time.
 
 As it turns out, the first clinical trial of Imatinib took place in 1998 and the drug received FDA (US) approval in May 2001, becoming available in other parts of the world soon after, moving onto the WHO's list of essential medicines.
 
-I started on the new medication, under careful monitoring. Tests were frequent. I started showing signs that the levels of the disease were coming down. 
+I started on the new medication, under careful monitoring. Tests were frequent. I started showing signs that the levels of the disease were coming down.
 
-Fast forward 14 years and the story is the same. Continue taking the medication, dealing with the fluctations in disease levels, moniroting regularly, deal with the side effects.
+Fast forward 14 years and the story is the same. Continue taking the medication, dealing with the fluctuations in disease levels, monitoring regularly, deal with the side effects.
 
-There are some who unfortunately cannot take Imatinib (or indeed the newer offshoots Dasatinib, nilotinib, radotinib and bosutinib). 
+There are some who unfortunately cannot take Imatinib (or indeed the newer offshoots Dasatinib, nilotinib, radotinib and bosutinib).
 
-Many experience nausea, vomiting, diarrhea, headaches, leg aches/cramps, fluid retention, visual disturbances, itchy rashes, lowered resistance to infection, bruising or bleeding, loss of appetite, weight gain, reduced number of blood cells (neutropenia, thrombocytopenia, anemia), and edema.
+Many experience nausea, vomiting, diarrhoea, headaches, leg aches/cramps, fluid retention, visual disturbances, itchy rashes, lowered resistance to infection, bruising or bleeding, loss of appetite, weight gain, reduced number of blood cells (neutropenia, thrombocytopenia, anemia), and edema.
 
-Severe congestive cardiac failure is an uncommon but recognized side effect of imatinib. Mice treated with large doses of imatinib show toxic damage to the muscle tissue of the heart (myocardium).
+Severe congestive cardiac failure is an uncommon but recognised side effect of imatinib. Mice treated with large doses of imatinib show toxic damage to the muscle tissue of the heart (myocardium).
 
 I've certainly experienced many of the more common side effects, but they are a price worth paying for keeping me alive. Again, I deem myself lucky.
 
+The impact of imatinib can't be understated. Due to the development of imatinib and related drugs, the five year survival rate for people with chronic myeloid leukaemia increased from 31% in 1993, to 59% in 2009, to 70% in 2016.
+
+On 28th May 2001 it made the cover of Time magazine.
+
+![](https://res.cloudinary.com/jimsimages/image/upload/v1599843027/time-mag_yincmr.jpg)
 
 ***
 
@@ -165,7 +169,7 @@ At 17, it's challenging to process feeling lucky if you reach 21.
 
 At 17, you are far enough along your mortal coil to have _just_ started to think about, to dream about, the life ahead of you, with little awareness - let alone anxiety - of ones own mortality. That shit normally keeps its head down until later in one's life. I was fast-tracked from the mind of a 17 year old, to 70, without the space (of life) between to reflect, without the wisdom to deal with such thought, and without the comfort of a 'life-lived'.
 
-It's strange to feel geniuinely lucky to be alive. That if modern medicine hadn't intervened, I wouldn't have seen 21.
+It's strange to feel genuinely lucky to be alive. That if modern medicine hadn't intervened, I wouldn't have seen 21.
 
 Cancer, so far, has been relatively kind to me - physically, at least.
 
