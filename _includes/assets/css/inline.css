@@ -17,20 +17,27 @@ body {
 }
 
 body {
-	font-size: 20px;
+	font-size: 15px;
 	display: grid;
 	height: 100vh;
 	grid-template-rows: auto 1fr auto;
 	background-color: var(--background);
 	color: var(--text);
 	padding: 1em 1em;
+
+}
+@media only screen and (min-width: 321px) {
+	body {
+		font-size: 17px;
+
+	}
 }
 @media only screen and (min-width: 600px) {
 	body {
 		padding: 1em 5em 1em 10%;
+		font-size: 20px;
 	}
 }
-
 
 h1,h2,h3,h4,h5,h6 {
 	color: var(--primary);
@@ -78,38 +85,46 @@ pre {
 	margin: .5em 0;
 }
 hr {
-	margin: 7em 0 6em;
+	margin: 4em 0 3em;
 	border-top: 1px solid var(--primary);
 	opacity: 0.2;
+}
+@media only screen and (min-width: 600px) {
+	hr {
+		margin: 7em 0 6em;
+	}
 }
 
 
 
-/* Header Nav */
-header nav ul {
+
+.c-header {
+	font-size: 90%;
+}
+.c-header nav ul {
 	padding: 0;
 	list-style: none;
 }
 
-header nav ul :first-child {
+.c-header nav ul :first-child {
 	margin-left: 0;
 }
 
-header nav li {
+.c-header nav li {
 	display: inline-block;
 	margin: 0 .25em;
 	padding: .25em 1em .25em 0;
 }
 
-header nav li a[href] {
+.c-header nav li a[href] {
 	color: var(--text);
 }
 
-header nav li a[href]:not(:hover) {
+.c-header nav li a[href]:not(:hover) {
 	text-decoration: none;
 }
 
-header nav li a[data-current="current item"] {
+.c-header nav li a[data-current="current item"] {
 	color: var(--primary);
 }
 
@@ -133,10 +148,16 @@ header nav li a[data-current="current item"] {
 }
 .c-page__head h1, .c-page__head h2 {
 	color: var(--text);
-	font-size: 4ch;
+	font-size: 2.4ch;
+}
+@media only screen and (min-width: 600px) {
+	.c-page__head h1, .c-page__head h2 {
+		font-size: 4ch;
+	}
 }
 .c-footer {
 	padding: 1em 0;
+	font-size: 75%;
 }
 
 .c-page figure {

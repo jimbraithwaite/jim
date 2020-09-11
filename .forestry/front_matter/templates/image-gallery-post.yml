@@ -23,3 +23,4 @@ fields:
   label: Image Gallery
 pages:
 - posts/test-gallery.md
+- pages/travel.md

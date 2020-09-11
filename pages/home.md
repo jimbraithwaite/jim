@@ -17,5 +17,5 @@ Despite being a northener, I live in London with my wife and our sassy cat.</h2>
 ![Me, during lockdown.](https://res.cloudinary.com/jimsimages/image/upload/v1599816051/61C3186D-6E36-4522-ADD7-3F4C0345425A_enghvl.jpg "Me, during lockdown.")
 
 
-I am the Creative Director at substrakt, and have been for over 14 years. What that really means is design and build websites. Our clients include the likes of Shakespeare’s Globe and English National Opera.
+For over 14 years I've been Creative Director at substrakt, building websites and applications for organisations in the arts, cultural, heritage and creative sectors across Europe and North America. Our clients include the likes of Shakespeare’s Globe and English National Opera.
 </article>

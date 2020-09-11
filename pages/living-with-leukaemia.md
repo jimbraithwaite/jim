@@ -9,10 +9,9 @@ eleventyNavigation:
 ---
 This year &mdash; 2020 &mdash; became my 35th on this earth.
 
-Of these 35 years I've now been alive, I’ve now been living with a chronic, terminal cancer for more years than I’ve not.
+Of these 35 years, I’ve now been living with a chronic, terminal cancer for more years than I've not.
 
-In summer of 2001 I found out I had Chronic Myelogenous Leukaemia.
-I was 17 years old.
+In summer of 2001 I was diagnosed with Chronic Myelogenous Leukaemia. I was 17 years old.
 
 As those who know me can attest; my memory isn't the sharpest.
 I remember that day clearly.
@@ -21,9 +20,9 @@ My dad had driven to collect me from my girlfriend's house, and I was feeling pa
 
 When the weakness started, what was probably a good few months prior, I attributed it to a my lifestyle. Getting up early for college (having to be on a bus at 7am), not going to bed early enough, probably not eating all that well. _Burning the candle at both ends._
 
-When the bruising appeared one day, I was on the loo. I looked down and saw my hip and thigh had some nasty bruising. I was very confused - I couldn't recall taking a tumble. I put it down to a possible knock on a night out after college. It was when the bruising appeared on the _other_ side of my body I was concerned. How could I have fallen, or been knocked _on both sides_? My mind started to move towards thinking something wasn't right. Eventually I plucked up the courage to do what you're never supposed to do - Google your symptoms.
+I was on the loo one day when I noticed the bruising. I looked down and saw my hip and thigh had some nasty purple marking. I was very confused - I couldn't recall taking a tumble. I put it down to a possible knock on a night out after college. It was when the bruising appeared on the _other_ side of my body my concern grew. How could I have fallen, or been knocked _on both sides_? My mind moved towards thinking something wasn't right. Eventually I plucked up the courage to do what you're never supposed to do - Google your symptoms.
 
-The (Google) results that came back weren't great. Some of it pointed to the possibility of leukaemia and other blood cancers. I worried some more. _Surely I can't have this?_ _No. The likelyhood is miniscule. There has to be some other explanation._ A few weeks passed, as I waited for the bruises to subside. They didn't. If anything they were getting worse. The strangest part of the bruising was that they didn't hurt. Bruising on this scale _had_ to hurt. I showed my parents my findings, but they were the same: _That's not likely; it will be something trivial. Try not to worry._ In those few weeks I was in limbo. In denial.
+The (Google) results that came back weren't great. Some of it pointed to the possibility of leukaemia and other blood cancers. Concerning. _Surely I can't have this?_ _No. The likelyhood is miniscule. There has to be some other explanation._ A few weeks passed, as I waited for the bruises to subside. They didn't. If anything they were getting worse. The strangest part of the bruising was that they didn't hurt. Bruising on this scale _had_ to hurt. I showed my parents my findings, but they were the same: _That's not likely; it will be something trivial. Try not to worry._ In those few weeks I was in limbo. In denial.
 
 I'd been waking up every morning feeling like I needed to go back to bed. Knocked for six. And this particular morning I'd had enough.
 
@@ -67,13 +66,13 @@ The chemotherapy pills they gave me initially (hydroxyurea) were a blunt instrum
 
 Thoughts, then, quickly turned to prognosis. Are there any treatments? If so, what? What is the death rate? How long do people live?
 
-The news wasn't great. The 'median survival' (there it is again), from the point of diagnosis to death was **4 years**.
+The news wasn't great. The 'median survival' (there it is again), from the point of diagnosis, to death, was 4 years.
 
 One of the problems, I was told, is that CML can remain undetected for some time, so it was unclear how long I'd had the disease. Could have been 6 months, could have been 18 months. Doing the quick maths on that one didn't make for happy reading.
 
 I was told there was no specific cause, no hereditary predisposition, merely an extremely unfortunate chromosome mutation. I recall being told at the time that I had more statistical chance of winning the lottery that being diagnosed with CML at 17. I know which I'd have preferred. 
 
-It is more common in males than in females (1.4:1) and appears more commonly in the elderly with a median age at diagnosis of 65 years. Exposure to ionising radiation is a risk factor, based on a 50 fold higher incidence of CML in Hiroshima and Nagasaki nuclear bombing survivors.
+CML is more common in males than in females (1.4:1) and appears more commonly in the elderly with a median age at diagnosis of 65 years. Exposure to ionising radiation is a risk factor, based on a 50-fold higher incidence of CML in Hiroshima and Nagasaki nuclear bombing survivors.
 
 I was advised against having children, as it wouldn't be fair on them.
 
@@ -96,11 +95,11 @@ You start off with a mixture of intensive radiation, coupled with rounds of chem
 
 The next stage is to have the new immune system grafted back into you with a series of transfusions of stem cells and bone marrow back into your body.
 
-Then you must wait. The problem then shifts. As you're so severely immune-suppressed at this point, any bacteria or virus even looks at you the wrong way and it's game over. It's a real risk that even a mild cold or infection could set in and kill you within hours or days. To try and combat this, you are kept in a special isolation ward, with very few staff and patients. The entire ward is kept a positive pressure chamber, where the air pressure inside is much higher than outside via a large machine churning away attached to an external wall. When the air seal is broken (for example when people do enter and exit the ward) air rushes out, rather than in, so airborne contaminants are less likely to flood the chamber. There's also a double-door airlock system on entry to the ward, where those entering have to wear full body scrubs, shoe coverings and decontaminate with sanitiser. If it wasn't for the high risk of dying, it'd be quite cool. Some sci-fi shit right there.
+Then you must wait. The problem then shifts. As you're so severely immune-suppressed at this point, any bacteria or virus even looks at you the wrong way and it's game over. It's a real risk that even a mild cold or infection could set in and kill you within hours or days. To try and combat this, you are kept in a special isolation ward, with very few staff and patients. The entire ward is kept held in a positive pressure chamber, where the air pressure inside is much higher than outside, by way of a laminar air flow (LAF) ventilation system. When the air seal is broken (for example when people do enter and exit the ward) air rushes out, rather than in, so airborne contaminants are less likely to flood the chamber. There's also a double-door airlock system on entry to the ward, where those entering have to wear full body scrubs, shoe coverings and decontaminate with sanitiser. If it wasn't for the high risk of dying, it'd be quite cool. Some sci-fi shit right there.
 
 Assuming you keep the nasties at bay, the problem then shifts (again). The next risk is graft-vs-host disease. This delight is where your shiny new immune system happens to decide that the new body it finds itself in a foreign one, and starts attacking it. If this happens, things are bleak, and go downhill fast.
 
-All of this adds up to some bleak odds. According to what I was told at the time, 20% of patients never make it out after the hospitalisation. For the 'lucky' remainder, they're definitively still _in the woods_.
+All of this adds up to some bleak odds. According to what I was told at the time, around 20% of patients never make it out after hospitalisation. And for the 'lucky' remainder, they're definitively still _in the woods_.
 
 You are then under close monitoring for a number of years. First for the risk of any graft-vs-host disease. Followed by a waiting game to see whether the clean 'wipe' of the old immune system radiation and chemotherapy did its job, or whether the disease managed to remain, in which case it's only a matter of time before relapse. After 5+ years of monitoring, you're deemed as in remission, where the odds of relapse are more favourable, though there's always a risk. From this stage, should you make it that far, you are finally classified as 'cured'.
 
@@ -122,7 +121,7 @@ I started on radiotherapy, having sample doses at the radiation facility at the 
 
 I was strapped and locked on to a table whilst operators switch on the machine then quickly vacate the room before a red light comes on, and the dark nuclear machine whirs into life. 
 
-I visited the special facility where I would spend the months after my radiation, recieving the high-dose chemotherapy, the bone marrow transplant itself, and the consequent quarantine.
+I was invited to visit the bone marrow transplant unit, where I would spend the months after my radiation, recieving the high-dose chemotherapy, the bone marrow transplant itself, and the consequent quarantine. 
 
 
 ***
@@ -130,9 +129,9 @@ I visited the special facility where I would spend the months after my radiation
 
 ## Along came Imatinib
 
-I was back in hospital for my routine bloodwork and consultation, not long before my transplant was due. One of the consultant heamatologists mentioned some clinical trials of a new type of drug that had shown promise, called - Imatinib. Tyrosine Kinase Inhibitors (TKIs). He explained they very new, and whilst they had shown promising results in trials, the historical data on their efficacy just wasn't there. At that time they were not available in the UK, thought he thought he may be soon be approved for use by NICE, the governing body that determines which new drugs from trials become available.
+I was back in hospital for a routine bloodwork and consultation, not long before my transplant was due. One of the consultant heamatologists mentioned some clinical trials of a drug that had been showing promise, called - <a href="https://en.wikipedia.org/wiki/Imatinib">Imatinib</a>, a new type of medication called a <a href="https://en.wikipedia.org/wiki/Tyrosine_kinase_inhibitor">Tyrosine Kinase Inhibitor (TKI)</a>. He explained they brand new, and whilst they had shown promising results in trials, the historical data on their efficacy just wasn't there. At that time they were not available in the UK, thought he thought he may be soon be approved for use by <a href="https://en.wikipedia.org/wiki/National_Institute_for_Health_and_Care_Excellence">NICE</a>, the governing body that determines which new drugs from trials become available.
 
-Given the other options available, I was very interested. To me, a promising clinical trail was better placing my faith in than the, frankly miserable, alternatives. I confirmed my intent, and before too much longer was one of the first people in the UK to be prescribed it.
+Given the other options available, I was very interested. To me, a promising clinical trail was better placing my faith in than the &mdash; frankly miserable &mdash; alternatives. I confirmed my intent, and before too much longer was one of the first people in the UK to be prescribed it.
 
 In a dark sense of luck, I'd been diagnosed with cancer at the right time.
 
@@ -154,13 +153,14 @@ It's strange to feel geniuinely lucky to be alive. That if modern medicine hadn'
 
 Cancer, so far, has been relatively kind to me - physically, at least.
 
-Mentally, perhaps, it has taken more of a toll.
+Mentally perhaps, it has taken more of a toll.
 
 ***
 
 
 ### Why I wrote this
 
-My memory of this section of my life is poor. It takes significant effort to piece together. I think my mind has done a decent job at blotting out a lot of the detail of that time. A coping mechanism, most likely.
+My memory of this section of my life is poor. It takes significant effort to piece together. My mind has been efficient at blotting out a lot of the detail. A coping mechanism, most likely.
 
-As I've gotten older, I think it becomes important to document the important moments in ones life.
+I often find myself having to recall this information when I'm speaking to people, whether or not I've known them a significant amount of time. 
+As I've gotten older, I've felt the importantance of being able to document this.

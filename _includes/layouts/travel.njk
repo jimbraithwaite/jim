@@ -1,0 +1,20 @@
+---
+layout: layouts/base.njk
+section: page
+---
+
+<article class="c-page c-page--post">
+  <header class="c-page__head">
+      <h1>{{ title }}</h1>
+  </header>
+
+  {% if image_gallery %}
+    <div class="c-image-gallery">
+    {% for image in image_gallery %}
+        <img src="{{ image }}" />
+    {% endfor %}
+    </div>
+  {% endif %}
+
+</article>
+
