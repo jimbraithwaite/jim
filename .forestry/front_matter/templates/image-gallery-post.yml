@@ -22,5 +22,5 @@ fields:
   config: {}
   label: Image Gallery
 pages:
-- posts/test-gallery.md
 - pages/travel.md
+- posts/test-gallery.md

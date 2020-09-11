@@ -7,7 +7,7 @@ eleventyNavigation:
   order: "3"
 
 ---
-This year &mdash; 2020 &mdash; became my 35th on this earth.
+This year — 2020 — became my 35th on this earth.
 
 Of these 35 years, I’ve now been living with a chronic, terminal cancer for more years than I've not.
 
@@ -30,14 +30,13 @@ When my dad arrived, I was miserable, so I mustered the courage to head to the l
 
 ![View of Scarborough North Bay, where we sat and waited.](https://res.cloudinary.com/jimsimages/image/upload/v1599532832/scarborough_yt4h3c.jpg)
 
-
 When we arrived back at the hospital, we were quickly ushered into a room. There was an air of concern.
 
 It wasn't good.
 
 The consultant started by explaining blood counts. I knew about different blood cells and broadly what they did, but not what levels they were supposed to be. They gave me a brief run down. Yep, yep, white cells, red cells, platelets.
 
-White cell totals, in the normal range, are supposed to be (roughly) between 5 &ndash; 10 (&times;10<sup>^</sup>3 parts per micro litre).
+White cell totals, in the normal range, are supposed to be (roughly) between 5 – 10 (×10<sup>^</sup>3 parts per micro litre).
 
 Mine were over 200. Logically, I asked why. He was reluctant to give me definitive answer, but said a possible cause could be some blood cancer mutations (such as leukaemia) cause the bone marrow (responsible for creating your blood cells) to flood your system with far too many immature white cells. They couldn't confirm this until more tests were done.
 
@@ -46,6 +45,8 @@ My world, in that moment, collapsed.
 The ensuing days were a desperate, grey fog. I was bundled in an ambulance and transferred from Scarborough Hospital to Leeds General Infirmary, where I would stay for four days. I don't remember those days nearly as well.
 
 I lost count of the number of tests. I was kept in my own room, but there were other patients on the ward. I was on the forth floor in the old wing of the LGI - a haunting place at best of times. I remember being stood up against the window, staring out at the city square below. A nurse joked - _don't do it, it's not that bad_. I laughed. The irony wasn't lost on me.
+
+![Brotherton Wing, Leeds General Infirmary](https://res.cloudinary.com/jimsimages/image/upload/v1599835687/LGI_Brotherton_Wing_12_June_2015_yg3o0o.jpg "Brotherton Wing, Leeds General Infirmary")
 
 Eventually the diagnosis came; I had Chronic Myeloid Leukaemia. Currently in the chronic phase. Lots of consultation, lots of questions, lots of harrowing leaflets. Trying to take it all in, through the fog.
 
@@ -70,7 +71,7 @@ The news wasn't great. The 'median survival' (there it is again), from the point
 
 One of the problems, I was told, is that CML can remain undetected for some time, so it was unclear how long I'd had the disease. Could have been 6 months, could have been 18 months. Doing the quick maths on that one didn't make for happy reading.
 
-I was told there was no specific cause, no hereditary predisposition, merely an extremely unfortunate chromosome mutation. I recall being told at the time that I had more statistical chance of winning the lottery that being diagnosed with CML at 17. I know which I'd have preferred. 
+I was told there was no specific cause, no hereditary predisposition, merely an extremely unfortunate chromosome mutation. I recall being told at the time that I had more statistical chance of winning the lottery that being diagnosed with CML at 17. I know which I'd have preferred.
 
 CML is more common in males than in females (1.4:1) and appears more commonly in the elderly with a median age at diagnosis of 65 years. Exposure to ionising radiation is a risk factor, based on a 50-fold higher incidence of CML in Hiroshima and Nagasaki nuclear bombing survivors.
 
@@ -78,12 +79,11 @@ I was advised against having children, as it wouldn't be fair on them.
 
 ***
 
-
 Back in 2001, treatment consisted of two main options, or just leaving it to run its course.
 
 ## 1. A Bone Marrow Transplant
 
-The first successful transplant was performed in New York in the late 1950s. The transplant involved identical twins, one of whom had leukaemia. 
+The first successful transplant was performed in New York in the late 1950s. The transplant involved identical twins, one of whom had leukaemia.
 
 There are essentially two types of bone marrow transplant. The first, from a related (sibling) donor. The second, from an unrelated donor that is selected from a bone marrow register. The first is far more preferable as it carries much less risk. There's a rather depressing 25% chance any given sibling is a bone marrow match. Unfortunately my sister wasn't. My samples were punched into the bone marrow register, then I waited. Eventually I had news that they'd found a 'suitable' match. Suitable is key here, as an unrelated transplant is no cake walk.
 
@@ -117,21 +117,19 @@ You don't have to be as cynical as I am to understand neither were compelling ch
 
 My donor from the register was confirmed. I was given a date on which my transplant was going to start. The table was set.
 
-I started on radiotherapy, having sample doses at the radiation facility at the now-closed Cookridge Hospital in Leeds, where a 'High Energy Radiation Centre', providing treatment of cancer with Cobalt-60 machines since 1950s. 
+I started on radiotherapy, having sample doses at the radiation facility at the now-closed Cookridge Hospital in Leeds, where a 'High Energy Radiation Centre', providing treatment of cancer with Cobalt-60 machines since 1950s.
 
-I was strapped and locked on to a table whilst operators switch on the machine then quickly vacate the room before a red light comes on, and the dark nuclear machine whirs into life. 
+I was strapped and locked on to a table whilst operators switch on the machine then quickly vacate the room before a red light comes on, and the dark nuclear machine whirs into life.
 
-I was invited to visit the bone marrow transplant unit, where I would spend the months after my radiation, recieving the high-dose chemotherapy, the bone marrow transplant itself, and the consequent quarantine. 
-
+I was invited to visit the bone marrow transplant unit, where I would spend the months after my radiation, recieving the high-dose chemotherapy, the bone marrow transplant itself, and the consequent quarantine.
 
 ***
-
 
 ## Along came Imatinib
 
 I was back in hospital for a routine bloodwork and consultation, not long before my transplant was due. One of the consultant heamatologists mentioned some clinical trials of a drug that had been showing promise, called - <a href="https://en.wikipedia.org/wiki/Imatinib">Imatinib</a>, a new type of medication called a <a href="https://en.wikipedia.org/wiki/Tyrosine_kinase_inhibitor">Tyrosine Kinase Inhibitor (TKI)</a>. He explained they brand new, and whilst they had shown promising results in trials, the historical data on their efficacy just wasn't there. At that time they were not available in the UK, thought he thought he may be soon be approved for use by <a href="https://en.wikipedia.org/wiki/National_Institute_for_Health_and_Care_Excellence">NICE</a>, the governing body that determines which new drugs from trials become available.
 
-Given the other options available, I was very interested. To me, a promising clinical trail was better placing my faith in than the &mdash; frankly miserable &mdash; alternatives. I confirmed my intent, and before too much longer was one of the first people in the UK to be prescribed it.
+Given the other options available, I was very interested. To me, a promising clinical trail was better placing my faith in than the — frankly miserable — alternatives. I confirmed my intent, and before too much longer was one of the first people in the UK to be prescribed it.
 
 In a dark sense of luck, I'd been diagnosed with cancer at the right time.
 
@@ -147,7 +145,7 @@ At 17, you’re going to live forever. Not a median of 4 more years.
 
 At 17, it's challenging to process feeling lucky if you reach 21.
 
-At 17, you are far enough along your mortal coil to have *just* started to think about, to dream about, the life ahead of you, with little awareness - let alone anxiety - of ones own mortality. That shit keeps its head down until later in one's life. I was fast-tracked from the mind of a 17 year old, to 70, without the space (of life) between to reflect, without the wisdom to deal with such thought, and without the comfort of a 'life-lived'.
+At 17, you are far enough along your mortal coil to have _just_ started to think about, to dream about, the life ahead of you, with little awareness - let alone anxiety - of ones own mortality. That shit keeps its head down until later in one's life. I was fast-tracked from the mind of a 17 year old, to 70, without the space (of life) between to reflect, without the wisdom to deal with such thought, and without the comfort of a 'life-lived'.
 
 It's strange to feel geniuinely lucky to be alive. That if modern medicine hadn't intervened, I wouldn't have seen 21.
 
@@ -157,10 +155,9 @@ Mentally perhaps, it has taken more of a toll.
 
 ***
 
-
 ### Why I wrote this
 
 My memory of this section of my life is poor. It takes significant effort to piece together. My mind has been efficient at blotting out a lot of the detail. A coping mechanism, most likely.
 
-I often find myself having to recall this information when I'm speaking to people, whether or not I've known them a significant amount of time. 
+I often find myself having to recall this information when I'm speaking to people, whether or not I've known them a significant amount of time.
 As I've gotten older, I've felt the importantance of being able to document this.
