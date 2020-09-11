@@ -7,7 +7,7 @@ eleventyNavigation:
   order: "3"
 
 ---
-This year — 2020 — became my 35th on this earth.
+This year — 2020 — became my 35th on this round old rock.
 
 Of these 35 years, I’ve now been living with a chronic, terminal cancer for more years than I've not.
 
@@ -48,7 +48,7 @@ I lost count of the number of tests. I was kept in my own room, but there were o
 
 ![Brotherton Wing, Leeds General Infirmary](https://res.cloudinary.com/jimsimages/image/upload/v1599835687/LGI_Brotherton_Wing_12_June_2015_yg3o0o.jpg "Brotherton Wing, Leeds General Infirmary")
 
-Eventually the diagnosis came; I had Chronic Myeloid Leukaemia. Currently in the chronic phase. Lots of consultation, lots of questions, lots of harrowing leaflets. Trying to take it all in, through the fog.
+Eventually the diagnosis came; I had Chronic Myeloid Leukaemia. I was inn the chronic phase. Lots of consultation, lots of questions, lots of harrowing leaflets. Trying to take it all in, through the fog.
 
 I was sent home with a sack of large, brightly coloured pills (hydroxyurea).
 
@@ -109,20 +109,20 @@ If patients were too sick or too old to even consider a bone marrow transplant a
 
 ***
 
-## A date for transplant
+## A date set for transplant
 
-My options were to weigh up either the ordeal of a bone marrow transplant, with the real risk of not making it out of hospital after the initial suppression, or counting your survival time in months with strong drugs.
+My options were thus: brave the ordeal of a bone marrow transplant, with the real risk of not making it out of hospital after the initial suppression, or counting your survival time in months with strong drugs.
 
 You don't have to be as cynical as I am to understand neither were compelling choices. It was a bleak, but clinical advice was to go for a transplant. So we started the wheels in motion.
 
 My donor from the register was confirmed. I was given a date on which my transplant was going to start. The table was set.
 
-I started on radiotherapy, having sample doses at the radiation facility at the now-closed Cookridge Hospital in Leeds, where a 'High Energy Radiation Centre', providing treatment of cancer with Cobalt-60 and linear accelerator machines since 1950s.
+I started with radiotherapy, having sample doses at the radiation facility at the now-closed Cookridge Hospital in Leeds, where a 'High Energy Radiation Centre', providing treatment of cancer with Cobalt-60 and linear accelerator machines since 1950s.
 
-![The early Cobalt-60 machine at Cookridge Hospital](https://res.cloudinary.com/jimsimages/image/upload/v1599836293/cobalt-60-machine_tovqu7.jpg "The early Cobalt-60 machine at Cookridge Hospital")  
-![The early Linac machine at Cookridge Hospital](https://res.cloudinary.com/jimsimages/image/upload/v1599836321/linac_idg3mp.jpg "The early Linac machine at Cookridge Hospital")
+![Early Cobalt-60 machine at Cookridge Hospital](https://res.cloudinary.com/jimsimages/image/upload/v1599836293/cobalt-60-machine_tovqu7.jpg)![Early Linear accelerator machine at Cookridge Hospital](https://res.cloudinary.com/jimsimages/image/upload/v1599836321/linac_idg3mp.jpg)
 
-I was strapped and locked on to a table whilst operators switch on the machine then quickly vacate the room before a red light comes on, and the dark nuclear machine whirs into life.
+
+I was strapped and locked on to a table whilst operators switch on the machine, then quickly vacate the room before a red light comes on, and the particle accelerator whirs into life.
 
 I was invited to visit the bone marrow transplant unit, where I would spend the months after my radiation, receiving the high-dose chemotherapy, the bone marrow transplant itself, and the consequent quarantine.
 
@@ -138,7 +138,20 @@ Given the other options available, I was very interested. To me, a promising cli
 
 In a dark sense of luck, I'd been diagnosed with cancer at the right time.
 
-As it turns out, the first clinical trial of Imatinib took place in 1998 and the drug received FDA (US) approval in May 2001, becoming available in other parts of the world soon after, moving onto the WHO's List of Essential Medicines.
+As it turns out, the first clinical trial of Imatinib took place in 1998 and the drug received FDA (US) approval in May 2001, becoming available in other parts of the world soon after, moving onto the WHO's list of essential medicines.
+
+I started on the new medication, under careful monitoring. Tests were frequent. I started showing signs that the levels of the disease were coming down. 
+
+Fast forward 14 years and the story is the same. Continue taking the medication, dealing with the fluctations in disease levels, moniroting regularly, deal with the side effects.
+
+There are some who unfortunately cannot take Imatinib (or indeed the newer offshoots Dasatinib, nilotinib, radotinib and bosutinib). 
+
+Many experience nausea, vomiting, diarrhea, headaches, leg aches/cramps, fluid retention, visual disturbances, itchy rashes, lowered resistance to infection, bruising or bleeding, loss of appetite, weight gain, reduced number of blood cells (neutropenia, thrombocytopenia, anemia), and edema.
+
+Severe congestive cardiac failure is an uncommon but recognized side effect of imatinib. Mice treated with large doses of imatinib show toxic damage to the muscle tissue of the heart (myocardium).
+
+I've certainly experienced many of the more common side effects, but they are a price worth paying for keeping me alive. Again, I deem myself lucky.
+
 
 ***
 
@@ -150,7 +163,7 @@ At 17, you’re going to live forever. Not a median of 4 more years.
 
 At 17, it's challenging to process feeling lucky if you reach 21.
 
-At 17, you are far enough along your mortal coil to have _just_ started to think about, to dream about, the life ahead of you, with little awareness - let alone anxiety - of ones own mortality. That shit keeps its head down until later in one's life. I was fast-tracked from the mind of a 17 year old, to 70, without the space (of life) between to reflect, without the wisdom to deal with such thought, and without the comfort of a 'life-lived'.
+At 17, you are far enough along your mortal coil to have _just_ started to think about, to dream about, the life ahead of you, with little awareness - let alone anxiety - of ones own mortality. That shit normally keeps its head down until later in one's life. I was fast-tracked from the mind of a 17 year old, to 70, without the space (of life) between to reflect, without the wisdom to deal with such thought, and without the comfort of a 'life-lived'.
 
 It's strange to feel geniuinely lucky to be alive. That if modern medicine hadn't intervened, I wouldn't have seen 21.
 
@@ -164,5 +177,4 @@ Mentally perhaps, it has taken more of a toll.
 
 My memory of this section of my life is poor. It takes significant effort to piece together. My mind has been efficient at blotting out a lot of the detail. A coping mechanism, most likely.
 
-I often find myself having to recall this information when I'm speaking to people, whether or not I've known them a significant amount of time.
-As I've gotten older, I've felt the importantance of being able to document this.
+I often find myself having to recall this information when I'm speaking to people about my health, whether or not I've known them a significant amount of time. As I've gotten older, I've felt a need to document these experiences, something I didn't do at the time.
